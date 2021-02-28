@@ -7,63 +7,19 @@ body {
 }
 
 code {
-      color:#e8ec67;
-}
-
-.ger1, p, li{
-      color:#ffffff;
-}
-
-.head1 {
-      color:#2dd881;
-}
-
-a {
-      color:#8db580;
-}
-
-.head2 {
-      color:#f71735;
-}
-
-.head3 {
-      color:#c039b6;
-}
-
-.head4 {
       color:#f0e100;
 }
 
-strong {
-      text-decoration-color:#aa0000;
-      text-decoration-style: wavy;
-      text-decoration-line: underline;
+p, li{
+      color:#ffffff;
 }
 
-.doc1 {
-      color:#f4a259;
+
+strong {
+      color:#f71735;
 }
+
 
 .tg1 {
       color:#ef3054;
-}
-
-.nt1 {
-      color:#00ff00;
-}
-
-.na1 {
-      color:#f679e5;
-}
-
-.ig1 {
-      color:#53f4ff;
-}
-
-.vl1 {
-      color:#f7ec59;
-}
-
-.cm1 {
-      color:#ffffff;
 }
